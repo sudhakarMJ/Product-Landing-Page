@@ -143,6 +143,9 @@ input[type="email" i] {
   display: flex;
   justify-content: center;
 }
+iframe{
+    width: 550px;
+  }
 .html5-video-player .video-click-tracking, .html5-video-player .video-stream {
   display: block;
   width: 100%;
